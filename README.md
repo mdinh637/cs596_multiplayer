@@ -1,2 +1,2 @@
 # cs596_multiplayer
-tic tac toe multiplayer game
+A tic tac toe multiplayer game with the ability to host lobbies for others to join when provided the session code (rather than hardcoding the IP).
